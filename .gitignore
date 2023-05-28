@@ -1,0 +1,10 @@
+build
+dist
+torchninja.egg-info/
+**/__pycache__/
+update.sh
+*.ipynb
+test/
+examples/
+!examples/mnist.py
+publish.sh
